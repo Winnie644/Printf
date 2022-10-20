@@ -1,1 +1,1 @@
-our first commit
+Our first commit
