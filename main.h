@@ -1,7 +1,7 @@
 #ifndef main_H
 #define main_H
 #include <stdarg.h>
-int _printf(const char *format, ...);
+int printf(const char *format, ...);
 int print_char(va_list ap);
 int print_str(va_list ap);
 int print_nbr(va_list ap);
